@@ -1,0 +1,3 @@
+framework for ntesting and feature file for automation testing
+used with selenium or playright 
+it uses ghrekin statement
